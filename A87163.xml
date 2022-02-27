@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>True, but sad and dolefull newes from Shrevvesbury. Expressed in two severall letters: whereof, the one was written to a gentleman of the Inner-Temple: the other, to a friend in London, relating at large the severall passages of the late skirmish at or near Worcester, between a party of each army, viz. Under the command of Prince Robert on the one side, and of Colonell Sands on the other. Confirmed by a letter sent from Prince Robert to His Majestie. Septemb. 24. With divers other circumstances of severall passages at that time. With Cornets mottoes. Octob. 10. 1642.</title>
+            <author>B. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87163</idno>
+            <idno type="STC">Wing H9</idno>
+            <idno type="STC">Thomason E121_26</idno>
+            <idno type="STC">ESTC R20601</idno>
+            <idno type="EEBO-CITATION">99865218</idno>
+            <idno type="PROQUEST">99865218</idno>
+            <idno type="VID">117455</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87163)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117455)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E121[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>True, but sad and dolefull newes from Shrevvesbury. Expressed in two severall letters: whereof, the one was written to a gentleman of the Inner-Temple: the other, to a friend in London, relating at large the severall passages of the late skirmish at or near Worcester, between a party of each army, viz. Under the command of Prince Robert on the one side, and of Colonell Sands on the other. Confirmed by a letter sent from Prince Robert to His Majestie. Septemb. 24. With divers other circumstances of severall passages at that time. With Cornets mottoes. Octob. 10. 1642.</title>
+                  <author>B. H.</author>
+                  <author>Rupert, Prince, Count Palatine, 1619-1682.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted at Yorke, and now reprinted at London. [s.n.],</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Originally Published : Yorke, 1642.</note>
+                  <note>"Sad and dolefull newes from Shrewsbvry" signed: B.H.</note>
+                  <note>"A true copy of a letter sent by Prince Robert [i.e. Rupert] to His Majestie .." p. 7.</note>
+                  <note>Annotation on Thomason copy: "Octo 10th".</note>
+                  <note>Printer's device on t.p. (McK. 268).</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sandys, Edwin, 1611 or 12-1642.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Shrewsbury (England) --  History, Military --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117455:1"/>
+            <pb facs="tcp:117455:1" rendition="simple:additions"/>
+            <p>TRUE, But Sad and Dolefull Newes <hi>FROM</hi> SHREWSBVRY.</p>
+            <p>Expreſſed in two ſeverall LETTERS: Whereof, The one was written to a Gentleman of the <hi>Inner-Temple: The other,</hi> To a friend in <hi>London,</hi> relating at large the ſeve<g ref="char:EOLhyphen"/>rall Paſſages of the late skirmiſh at or near <hi>Worceſter,</hi> between a Party of each Army, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>nder the Command of</hi> Prince <hi>Robert</hi> on the one ſide, and of Colonell <hi>Sands</hi> on the other.</p>
+            <p>Confirmed by a Letter ſent from Prince <hi>Robert</hi> to His MAIESTIE. <hi>Septemb.</hi> 24.</p>
+            <p>With divers other Circumſtances of ſeverall Paſſages at that time. With the Cornets <hi>Mottoes.</hi>
+            </p>
+            <p>Octob. 10. 1642.</p>
+            <figure>
+               <head>
+                  <q xml:lang="lat">IN DOMINO CONFIDO</q>
+               </head>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>Imprinted at <hi>Yorke,</hi> and now re-printed in <hi>London.</hi> 
+               <add>Octo 19<hi rend="sup">th</hi>
+               </add>1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:117455:2"/>
+            <pb n="3" facs="tcp:117455:2"/>
+            <head>Sad and dolefull Newes from SHREWSBVRY.</head>
+            <div n="1" type="letter">
+               <head>The first Letter.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">I</seg> Doe beleeve you have heard of the flight between His Majeſties Forces and my Lord of Eſſexes; but yet I thinke you have not heard the truth, or any true relations thereof; for we have them in print here with us from Lon<g ref="char:EOLhyphen"/>don: Your Diurnall ſayes Prince <hi>Ro<g ref="char:EOLhyphen"/>bert</hi> is dead, and his brother dangerou<g ref="char:EOLhyphen"/>ſly hurt, and moſt of the Cavaliers cut off, nay that thanks are given to God for it, but beleeve it not: For now even their friends begin to be aſhamed of their lyes. And there<g ref="char:EOLhyphen"/>fore I will relate the very truth of it.</p>
+               <p>Sir <hi>Iohn Byron</hi> was in Worceſter with two Troops of Horſe and ſome Foot, Prince <hi>Robert</hi> marcht away from his Majeſty with 8 Troops of Horſe, and came to Worceſter upon Fryday, about foure of the clocke in the afternoone; and as he was marching through the Towne, Newes came that about 12 Troops of Horſe, and about 500 Dragoneers were marching to the Towne: Whereupon, Prince <hi>Robert</hi> ſent Sir <hi>Iohn Byron</hi> with two Troops of Horſe to view
+<pb n="4" facs="tcp:117455:3"/>
+the Enemy, and the Prince in the meane time ſet his men in a Battalia, and Sir <hi>Iohn Byron</hi> retreating back to the Prince, they marcht towards the Enemy and met them, upon the Top of a Hill they ſtood looking about halfe an houre one on another. At length, they comming nearer together, Sir <hi>Alexander Douglas</hi> diſcharged his Piſtoll againſt Serje<g ref="char:EOLhyphen"/>ant Major <hi>Byron,</hi> but miſt him, for it was about ſeven yards diſtance; but Prince <hi>Robert</hi> commanded ours not to charge the enemy juſt untill they came to their Breaſts, the which they did well obſerve; For the Front of the Parli<g ref="char:EOLhyphen"/>ament Troops diſcharging at too uncertaine a diſtance, did no execution; but the Front of Prince <hi>Roberts</hi> Troops com<g ref="char:EOLhyphen"/>ming on, diſcharged juſt at their breaſts, and quite cut off the Front: Serjeant Major <hi>Byron</hi> ſhot a bullet into <hi>Doug<g ref="char:EOLhyphen"/>las</hi> belly; Prince <hi>Robert</hi> his Brother, and Sir <hi>Lewis Dives</hi> ſlew each a man; Colonell <hi>Wilmot</hi> ſingled out Colonell <hi>Sandys,</hi> and gave him his deaths-wound, though he like a va<g ref="char:EOLhyphen"/>liant Commander fought while he had one drop of bloud. The Parliaments forces endured two ſhots well, but at the third they were routed, and the Prince had them in chaſe halfe a mile. The Parliaments 500 Dragoneers were pla<g ref="char:EOLhyphen"/>ced upon a Bridge, about a quarter of a mile off; but their Horſe being routed, came to the Bridge to get over, ſo that then the Dragoneers all fled, but with their making too much haſte, there were about 60 drowned; which fell over the Bridge. There were about 350 ſlaine and drowned, di<g ref="char:EOLhyphen"/>vers common Troopers taken priſoners; but their Horſe and Armes taken from them, they were ſet free againe, be<g ref="char:EOLhyphen"/>cauſe they were not worth their breed.</p>
+               <p>We have here priſoner one Captaine <hi>Wingate,</hi> Burgeſſe for Saint Albans, and he fought valiantly. We loſt but foure men; the one was a Cornet to Maſter <hi>Haſtings</hi> Troop,
+<pb n="5" facs="tcp:117455:3"/>
+and brother to my Lord <hi>Beaumond.</hi> Prince <hi>Robert</hi> is very well; though he ventured as far as any Trooper of them all; Prince <hi>Maurice</hi> is wounded in the head, but no danger; Sir <hi>Lewis Dives</hi> was ſhot through the Arme, Commiſſary <hi>Wilmot</hi> cut in the backe, but all of them were with the King abroad the next or within two dayes after the fight.</p>
+               <p>When the Marqueſſe of Hartford is come, and my Lord <hi>Strange</hi> we ſhall march forward; We expect them on Mun<g ref="char:EOLhyphen"/>day at night; My Lord <hi>Strange</hi> would have been here before this, but only that he is talking with Mancheſter, and then we make no queſtion but we ſhall be able to march through England.</p>
+               <p>Colonell <hi>Sandys</hi> behaved himſelfe like a Gentleman and a ſoldier, for he charged upon us valiantly, and at the houre of his death, ſaid, That we had cut off the flower of their chivalry and dyed very penitently. Prince <hi>Robert</hi> ſent his Chaplaine. Doctor <hi>Wats</hi> to him, to whom he confeſt his diſloyalty to the King and the Church, praying God and the King to forgive him. I pray you remember my love to our friends at Moregate, and tell them I am very well, and hope to be with them within theſe three weeks. So with my love to your ſelfe, &amp;c. I reſt,</p>
+               <closer>
+                  <dateline>Shrewsbury, <date>Septemb. 30.</date>
+                  </dateline>
+                  <signed>Yours, <hi>B. H.</hi>
+                  </signed>
+               </closer>
+               <postscript>
+                  <head>Postſcript.</head>
+                  <p>Captaine <hi>Browne,</hi> Colonell of the Dragoneers ran away at the firſt.</p>
+                  <p>The Welſh-men come in apace.</p>
+               </postscript>
+            </div>
+            <div n="2" type="letter">
+               <pb n="6" facs="tcp:117455:4"/>
+               <head>The Second <hi>LETTER.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">I</seg> Have written to you the laſt weeke, which I preſume you have received, whereby I informed you of my ſafe arrivall here. Since that time I have been in ſome part of Wales, and am laſt night returned here: Where the King is with his Army, the Earle of Eſſex is alſo at Worceſter: Where for his firſt entertainment, the vant carryers of his Army were ſhrewd<g ref="char:EOLhyphen"/>ly handled by Prince <hi>Robert,</hi> who with 8 Troops of Horſe routed a thouſand of the Parliaments forces, killed 300 in the place, brought ſix Cornets with him here, taken in the field, and one Parliament man taken; Colonell <hi>Sands</hi> and other Commanders were ſlaine, and the reſt taken or drow<g ref="char:EOLhyphen"/>ned in the river, and all this only with the loſſe of foure men on the Kings ſide, and Prince <hi>Maurice</hi> ſleightly hurt with a ſword in the head, with ſome others, but without danger of death. The King is here very ſtrong, and they flocke to him in multitudes. There is at Bridgenorth ſome two or three Regiments of the King, where laſt night ſome of his Excel<g ref="char:EOLhyphen"/>lencies Army came and made a bravado, and valiantly ran the ſame way they came. It is expected that in a ſhort time there will be a Battell, the King hath already defied the Earle, and it is expected, ſome twelve dayes will decide the quarrell.</p>
+               <closer>
+                  <salute>Farwell.</salute>
+               </closer>
+            </div>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:117455:4"/>
+            <head>A True Copy of a Letter ſent by Prince <hi>Robert</hi> to his MAIESTIE.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Bearer will with all your Circumſtances tell your Majeſty our Proceedings at Worceſter, I ſhall only ſay this, That upon your Majeſties Commands to ſuccour the Towne, we went thither with our Forces, and found the Rebels on both ſides of the Towne, no Amunition, nor nothing fitting to entertaine ſo great a Force as the Lord of Eſſex would have brought that Night. But all things in ſo great a diſorder, that certainly we had all been loſt, had we not by a great chance met with ten Troops of their Horſe, and five of their Dragoneers, which we did entirely rout, and killed moſt of their chiefeſt Officers. The Manner and the Names I leave for the ſaid Bearer to tell you. Your Majeſty will be pleaſed to accept this as a beginning of your Officers and my Duty; and I doubt not, as (cer<g ref="char:EOLhyphen"/>tainly) they behaved themſelves all very bravely and gallantly, that hereafter Your Majeſty ſhall finde the ſame behaviour againſt a more conſiderable number. Of this Your Majeſty may be very con<g ref="char:EOLhyphen"/>fident, as alſo of the endeavours of</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your Majesties Moſt obedient Nephew, and humble Servant, <hi>ROBERT.</hi>
+               </signed>
+               <dateline>From <hi>Bodfort</hi> 
+                  <date>this 24. of <hi>Sept.</hi> 1642.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <opener>
+                  <salute>Sir,</salute>
+               </opener>
+               <p>This Gentleman hath behaved himſelfe ſo gallantly, That I muſt needs humbly deſire your Maieſty to knight him; which will encourage him and all others to continue the Affection for your Service.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="8" facs="tcp:117455:5"/>
+            <head>The Circumſtances related by Maſter <hi>Crane,</hi> who is knighted. He is (I heare) Prince <hi>Roberts</hi> Cornet.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat at the firſt Charge, Prince <hi>Robert,</hi> Prince <hi>Maurice,</hi> Maſter <hi>Foxe,</hi> and two more, charged and defeated a Troop, whom they knew not to be enemies till they were upon them, by their Orange colour Scarfes.</p>
+            <p>That ſeven Cornets are taken ſome I ſaw.</p>
+            <p>That ſeverall Officers are kill'd on their ſide, particularly, <hi>Doug<g ref="char:EOLhyphen"/>las</hi> and <hi>Sandys;</hi> that the laſt repented before his Death, for having borne Armes againſt the King.</p>
+            <p>That ſeverall men are taken, as Captaine <hi>Wingat</hi> of the Houſe of Commons, and others.</p>
+            <p>That we have but three kil'd in all.</p>
+            <p>That but three of ours of qual<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty have been hurt; Maſter <hi>Wilmot</hi> in the back, and the worſt of any, but yet he marches in a Coach and is merry Sir <hi>Lewis Dives</hi> through the ſhoulder; M. <hi>Byron</hi> (a brother of Sir <hi>Iohns</hi>) over the face. I heard he hath ſaid, that Prince Maurice is a little hurt, but I underſtood him but thoſe three.</p>
+            <p>That Captaine <hi>Browne,</hi> who commanded in chiefe as Colonell of the Dragoneers, was one of the firſt that ran away.</p>
+            <p>That our men are very hearty with the victory, and the ſpoiles of the killed (as Horſes, Armes, Buff-coats, Money in their pockets) and the Enemy (as they heare) much diſheartened, and not likely to make ſo great haſte from about Worceſter as they meant.</p>
+         </div>
+         <div type="list_of_mottoes">
+            <head>The Cornets MOTTOES.</head>
+            <list>
+               <item>
+                  <q xml:lang="lat">PRo Rege &amp; Regno.</q>
+               </item>
+               <item>
+                  <q xml:lang="lat">Exurgat &amp; Diſcipabuntur.</q>
+               </item>
+               <item>
+                  <q xml:lang="lat">Pro Rege &amp; Religione.</q>
+               </item>
+               <item>
+                  <q xml:lang="lat">Si pro Patria Merior, non Moror.</q>
+               </item>
+            </list>
+            <p>The reſt were ſo torne, the <hi>Mottoes</hi> could not be read.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:117455:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
